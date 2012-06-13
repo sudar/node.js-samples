@@ -1,1 +1,1 @@
-Code samples on node.js that I created for my talk on node.js at jsFoo.
+Code samples about node.js that I use in my various talks about node.js.
