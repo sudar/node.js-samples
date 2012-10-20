@@ -5,8 +5,9 @@ Code samples about node.js that I use in my various talks about node.js.
 
 The following are some of the events, for which I used these code samples
 
-- [jsFoo](http://sudarmuthu.com/blog/introduction-to-node-js-at-jsfoo)
+- [jsFoo 2011](http://sudarmuthu.com/blog/introduction-to-node-js-at-jsfoo)
 - [Girl Geek Dinner](http://sudarmuthu.com/blog/introduction-to-node-js-at-yahoo-girl-geek-dinner)
+- [jsFoo 2012](http://sudarmuthu.com/blog/controlling-robots-using-javascript)
 
 Contribution
 -------------

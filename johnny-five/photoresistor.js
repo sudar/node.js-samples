@@ -1,3 +1,9 @@
+/**
+ * To run this sample, you need to have johnny-five node module installed. You can do `npm install johnny-five`
+ *
+ * Also connect a LED on pin 13 of Arduino and a LED on Analog pin 2. After that connect the Arduino to the computer.
+ */
+
 var five = require("johnny-five"),
     board, led, photoresistor;
 
@@ -21,6 +27,7 @@ board.on("ready", function() {
       }
     console.log( value, this.normalized );
   });
+
   // Inject the `sensor` hardware into the Repl instance's context;
   // allows direct command line access
   board.repl.inject({

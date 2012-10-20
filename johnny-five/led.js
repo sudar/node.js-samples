@@ -1,3 +1,9 @@
+/**
+ * To run this sample, you need to have johnny-five node module installed. You can do `npm install johnny-five`
+ *
+ * Also connect a LED on pin 13 of Arduino and connect the Arduino to the computer.
+ */
+
 var five = require("johnny-five"),
     board = new five.Board();
 
